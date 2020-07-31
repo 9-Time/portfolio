@@ -4,5 +4,4 @@
 
 Personal site built using
 - React
-- nodejs
-
+- GatsbyJS
