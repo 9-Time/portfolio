@@ -1,7 +1,0 @@
-node_modules
-babel_config*
-build
-dist
-package-lock.json
-.eslintrc*
-babel.config.js
