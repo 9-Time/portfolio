@@ -8,7 +8,7 @@ export default function Home() {
       <Link to="/contact/">Contact</Link>
       <h1>Kah Wee 's Portfolio </h1>
       <p>Data Scientist</p>
-      <img src="https://github.com/scarmaten/portfolio/blob/dev/src/images/beach.jpg" alt="beach" width="500" height="300"/>
+      <img src="../images/beach.jpg" alt="beach" width="500" height="300"/>
 
     </div>
 	
