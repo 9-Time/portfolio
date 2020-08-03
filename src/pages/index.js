@@ -1,5 +1,6 @@
 import React from "react"
 import {Link} from "gatsby"
+import logo from '../images/beach.jpg';
 
 
 export default function Home() {
@@ -8,7 +9,7 @@ export default function Home() {
       <Link to="/contact/">Contact</Link>
       <h1>Kah Wee 's Portfolio </h1>
       <p>Data Scientist</p>
-      <img src={require("../images/beach.jpg")} />
+      <img src={logo} />
 
     </div>
 	
